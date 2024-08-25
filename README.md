@@ -9,7 +9,7 @@ Hi there 👋
 Credits:
 
 	Website Template:
-		Phantom by HTML5 UP (html5up.net | @ajlkn)
+		Strata by HTML5 UP (html5up.net | @ajlkn)
 
 	Demo Images:
 		Unsplash (unsplash.com)
